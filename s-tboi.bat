@@ -1,8 +1,6 @@
 @echo off
 setlocal
 
-# this is Windows Only
-
 REM ====== CONFIGURATION ======
 set REPO_DIR=C:\Users\39346\Documents\My Games\Binding of Isaac Repentance
 set DEFAULT_MSG=quick save
